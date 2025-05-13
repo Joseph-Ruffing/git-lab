@@ -70,3 +70,50 @@ Untracked files:
   (use "git add <file>..." to include in what will be committed)
         answers.md
 
+Answer 6    On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   README.md
+        new file:   answers.md
+
+Answer 7    On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   answers.md
+
+Answer 8    commit ca89320280e654e5fe096d2d6ae8a08a187b5f0e (HEAD -> master)
+Author: Joseph Ruffing <jr684124@ohio.edu>
+Date:   Tue May 13 11:09:03 2025 -0400
+
+    Initial commit
+
+Answer 9    On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   answers.md
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+Answer 10    My changes online were not reflected in my local repository
+
+Answer 11    Username for 'https://github.com': Joseph-Ruffing
+Password for 'https://Joseph-Ruffing@github.com':
+To https://github.com/Joseph-Ruffing/git-lab.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/Joseph-Ruffing/git-lab.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+Answer 12  The changes made online are now reflected in my local repo
+
+Answer 13     .  ..  .git  .gitignore  README.md
